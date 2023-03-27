@@ -1,0 +1,44 @@
+{
+    "name": "Clément Poudrée",
+    "country": "France",
+    "links": [
+        {
+            "id": "1",
+            "name": "My Portfolio",
+            "icon": "💼",
+            "link": "https://clementpoudree.com"
+        },
+        {
+            "id": "2",
+            "name": "Airbnb Clone",
+            "icon": "✈️",
+            "link": "https://clement-airbnb-clone.vercel.app"
+        },
+        {
+            "id": "3",
+            "name": "Real Estate App",
+            "icon": "🏘️",
+            "link": "https://webtale-realestate.netlify.app"
+        },
+        {
+            "id": "4",
+            "name": "UberEats Clone",
+            "icon": "🍔",
+            "link": "https://youeats.netlify.app"
+        }
+    ],
+    "socials": [
+        {
+            "id": "1",
+            "name": "Twitter",
+            "icon": "",
+            "link": "https://twitter.com/clementpdr"
+        },
+        {
+            "id": "2",
+            "name": "Github",
+            "icon": "",
+            "link": "https://twitter.com/clementpdr"
+        }
+    ]
+}
